@@ -1,0 +1,11 @@
+{
+    "name": "Chatter",
+    "version": "0.0.0",
+    "description": "Chat Client",
+    "dependencies": {
+	"socket.io": "latest",
+	"express": "latest",
+	"jade": "latest"
+    },
+    "author": "developer"
+}
